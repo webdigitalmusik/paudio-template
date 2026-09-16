@@ -1,0 +1,6 @@
+{
+  "name": "P.Audio Indonesia - Komponen Loudspeaker Profesional",
+  "description": "Distribusi dan suku cadang transduser resmi P.Audio untuk sound engineer, box builder, dan instalasi audio profesional di Indonesia.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
